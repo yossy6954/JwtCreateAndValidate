@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtCreateAndValidate", "JwtCreateAndValidate\JwtCreateAndValidate.csproj", "{95513635-12B2-4348-800A-7C3F83D6C7A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtCreateAndValidateTest", "JwtCreateAndValidateTest\JwtCreateAndValidateTest.csproj", "{B13CA16E-E6B6-460E-AF17-5E0691BD2854}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{95513635-12B2-4348-800A-7C3F83D6C7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95513635-12B2-4348-800A-7C3F83D6C7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95513635-12B2-4348-800A-7C3F83D6C7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13CA16E-E6B6-460E-AF17-5E0691BD2854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13CA16E-E6B6-460E-AF17-5E0691BD2854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13CA16E-E6B6-460E-AF17-5E0691BD2854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13CA16E-E6B6-460E-AF17-5E0691BD2854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
